@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<ArrayOfTransport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Transport xsi:type="Train">
+    <Seats>240</Seats>
+    <Weight>60000</Weight>
+    <Name>Stadler</Name>
+    <Track_width>1435</Track_width>
+  </Transport>
+  <Transport xsi:type="Car">
+    <Seats>8</Seats>
+    <Weight>1200</Weight>
+    <Name>volvo v60</Name>
+    <Max_speed>240</Max_speed>
+    <Year>2015</Year>
+  </Transport>
+  <Transport xsi:type="Car">
+    <Seats>8</Seats>
+    <Weight>1200</Weight>
+    <Name>volvo v60</Name>
+    <Max_speed>240</Max_speed>
+    <Year>2015</Year>
+  </Transport>
+  <Transport xsi:type="Train">
+    <Seats>240</Seats>
+    <Weight>60000</Weight>
+    <Name>Stadler</Name>
+    <Track_width>1435</Track_width>
+  </Transport>
+  <Transport xsi:type="Train">
+    <Seats>240</Seats>
+    <Weight>60000</Weight>
+    <Name>Stadler</Name>
+    <Track_width>1435</Track_width>
+  </Transport>
+  <Transport xsi:type="Car">
+    <Seats>8</Seats>
+    <Weight>1200</Weight>
+    <Name>volvo v60</Name>
+    <Max_speed>240</Max_speed>
+    <Year>2015</Year>
+  </Transport>
+  <Transport xsi:type="Train">
+    <Seats>240</Seats>
+    <Weight>60000</Weight>
+    <Name>Stadler</Name>
+    <Track_width>1435</Track_width>
+  </Transport>
+  <Transport xsi:type="ExpressTrain">
+    <Seats>200</Seats>
+    <Weight>45000</Weight>
+    <Name>Stadler</Name>
+    <Track_width>1435</Track_width>
+    <Ticket>13</Ticket>
+  </Transport>
+</ArrayOfTransport>

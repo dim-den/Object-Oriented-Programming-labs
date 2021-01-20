@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<ArrayOfCar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Car>
+    <Seats>5</Seats>
+    <Weight>1200</Weight>
+    <Name>Volvo v60</Name>
+    <Max_speed>240</Max_speed>
+    <Year>2015</Year>
+  </Car>
+  <Car>
+    <Seats>8</Seats>
+    <Weight>1150</Weight>
+    <Name>Ford Focus</Name>
+    <Max_speed>220</Max_speed>
+    <Year>2020</Year>
+  </Car>
+  <Car>
+    <Seats>6</Seats>
+    <Weight>1400</Weight>
+    <Name>Tesla Model X</Name>
+    <Max_speed>310</Max_speed>
+    <Year>2019</Year>
+  </Car>
+  <Car>
+    <Seats>9</Seats>
+    <Weight>1550</Weight>
+    <Name>Mitsubishi Pajero</Name>
+    <Max_speed>230</Max_speed>
+    <Year>2012</Year>
+  </Car>
+  <Car>
+    <Seats>6</Seats>
+    <Weight>1350</Weight>
+    <Name>Vovlo xc90</Name>
+    <Max_speed>260</Max_speed>
+    <Year>2020</Year>
+  </Car>
+  <Car>
+    <Seats>5</Seats>
+    <Weight>1220</Weight>
+    <Name>Audi A6</Name>
+    <Max_speed>300</Max_speed>
+    <Year>2014</Year>
+  </Car>
+  <Car>
+    <Seats>4</Seats>
+    <Weight>1000</Weight>
+    <Name>Ferrari f40</Name>
+    <Max_speed>360</Max_speed>
+    <Year>2018</Year>
+  </Car>
+</ArrayOfCar>
